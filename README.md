@@ -1,4 +1,4 @@
-![logo](https://github.com/Harekrishna293/Harekrishna293/blob/main/logo%20github.gif)
+![logo](https://github.com/Harekrishna293/Harekrishna293/blob/main/logo.jpg)
 <h1 align="center">Hi 👋, I'm Harekrishna Chaudhary</h1>
 <h3 align="center">A passionate IT learner from Nepal.</h3>
 
